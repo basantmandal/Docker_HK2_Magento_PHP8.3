@@ -38,7 +38,7 @@ This is a Open Source - Free to use Docker Image/Container. No charge or any fee
 
 ## 🚀 Sample Docker Compose
 
-[https://github.com/basantmandal/Docker_HK2_Magento_PHP8.2/test/docker-compose.yml](https://github.com/basantmandal/Docker_HK2_Magento_PHP8.2/test/docker-compose.yml)
+[https://github.com/basantmandal/Docker_HK2_Magento_PHP8.3/test/docker-compose.yml](https://github.com/basantmandal/Docker_HK2_Magento_PHP8.3/test/docker-compose.yml)
 
 ## 🚀 How to use it for Magento
 
@@ -46,7 +46,7 @@ This is a Open Source - Free to use Docker Image/Container. No charge or any fee
 
 ## Compatibility
 
-This Image has been tested on Ubuntu 18/20/22. We hope it should work fine in Windows and MacOS. In case of any issues you can file it at [https://github.com/basantmandal/Docker_HK2_Magento_PHP8.2/issues](https://github.com/basantmandal/Docker_HK2_Magento_PHP8.2/issues)
+This Image has been tested on Ubuntu 18/20/22. We hope it should work fine in Windows and MacOS. In case of any issues you can file it at [https://github.com/basantmandal/Docker_HK2_Magento_PHP8.3/issues](https://github.com/basantmandal/Docker_HK2_Magento_PHP8.3/issues)
 
 ## 📫 Support
 
@@ -54,7 +54,7 @@ For support or any bug report or changes mail me at - <support@hashtagkitto.co.i
 
 ## 🐞 Bug Report
 
-Please open an [issue](https://github.com/basantmandal/Docker_HK2_Magento_PHP8.2/issues) on GitHub.
+Please open an [issue](https://github.com/basantmandal/Docker_HK2_Magento_PHP8.3/issues) on GitHub.
 
 When filing a bug remember that the better written the bug is, the more likely it is to be fixed.
 
@@ -84,7 +84,7 @@ By using any Product/Module/Application/Docker Image/Container/etc from Basant M
 
 ## 💖Like my work? Help Us
 
-Please rate my project or give some stars at [https://github.com/basantmandal/Docker_HK2_Magento_PHP8.2/stargazers](https://github.com/basantmandal/Docker_HK2_Magento_PHP8.2/stargazers). You can also contribute to make my Open Source Contribution more frequent and help others - [https://www.buymeacoffee.com/basantmandal](https://www.buymeacoffee.com/basantmandal) or [https://www.basantmandal.in/buymecoffee](https://www.basantmandal.in/buymecoffee)
+Please rate my project or give some stars at [https://github.com/basantmandal/Docker_HK2_Magento_PHP8.3/stargazers](https://github.com/basantmandal/Docker_HK2_Magento_PHP8.3/stargazers). You can also contribute to make my Open Source Contribution more frequent and help others - [https://www.buymeacoffee.com/basantmandal](https://www.buymeacoffee.com/basantmandal) or [https://www.basantmandal.in/buymecoffee](https://www.basantmandal.in/buymecoffee)
 
 ## 📫 Feedback
 
